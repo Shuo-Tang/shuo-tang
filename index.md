@@ -27,7 +27,7 @@ When I’m not buried in code or lost in research papers, I like to go to the gy
 
 {% include section.html %}
 
-## Highlights
+## Research Highlights
 
 {% capture text %}
 
