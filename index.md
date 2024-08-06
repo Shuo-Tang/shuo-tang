@@ -2,7 +2,7 @@
 ---
 
 # Welcome to my research hub
-I am Shuo Tang, a current Ph.D. candidate working with Prof. Pau Closas in Electrical and Computer Engineering at Northeastren University, Boston, MA, USA.
+Hi, I am Shuo Tang. I am currently a Ph.D. candidate working with Prof. Pau Closas in Electrical and Computer Engineering at Northeastren University, Boston, MA, USA.
 
 
 
