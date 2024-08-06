@@ -1,7 +1,8 @@
 ---
 ---
 
-# Shuo-TangDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to my research hub
+I am Shuo Tang, a current Ph.D. candidate working with Prof. Pau Closas in Electrical and Computer Engineering at Northeastren University, Boston, MA, USA.
 
 
 
