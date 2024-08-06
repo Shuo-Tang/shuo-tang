@@ -10,10 +10,10 @@ proofer: false
 
 # site social media and other links
 links:
-  Email: tang.shu@northeastern.edu
-  Orcid: 0009-0000-4531-2858
-  Google-Scholar: https://scholar.google.com/citations?hl=en&user=G7RM4vgAAAAJ
-  GitHub: https://github.com/Shuo-Tang?tab=repositories
+  email: tang.shu@northeastern.edu
+  orcid: 0009-0000-4531-2858
+  google-scholar: https://scholar.google.com/citations?hl=en&user=G7RM4vgAAAAJ
+  github: https://github.com/Shuo-Tang?tab=repositories
 
 ### jekyll settings
 
