@@ -7,8 +7,6 @@
   {%
   include figure.html
   image="images/photo_with_yellow.jpg"
-  %caption="The team at our annual Christmas party, 2025"
-  %link="team"
   width="400px"
   %}
 {% endcapture %}
