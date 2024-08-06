@@ -2,11 +2,31 @@
 ---
 
 # Welcome to my research hub
+
+{% capture content %}
+  {%
+  include figure.html
+  image="images/photo_with_yellow.jpg"
+  %caption="The team at our annual Christmas party, 2025"
+  %link="team"
+  width="400px"
+  %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
 Hi, I am Shuo Tang, your possible next friend who is taking a scenic route through academia! I am currently a Ph.D. candidate in Electrical and Computer Engineering at Northeastren University, Boston, MA, USA. 
 
 I started off with a BS degree in Vehicle Engineering from China Agricultural University, where I get obsessed with engineering and trouble-shooting. I came to the Boston in 2018 and got my Master degree in Mechanical Engineering at Northeastern University. I love this city, except for the long winter which is just nature’s way of saying, "Stay inside and study or play PC games." Now I am a Ph.D. student working with Prof. Pau Closas at NEU. I am playing with satellites, tracking and navigation everyday. My research foucuses on GNSS signal processing, sensor fusion, computational statistics and physics-informed learning.
 
-When I’m not buried in code or lost in research papers, I like playing basketball and tennis. Don't forget about PC games. Welcome come to my research hub! I hope they are interesting to you and may even bring inspirations. If you’re into living life to the fullest, we’re already on the same wavelength.
+When I’m not buried in code or lost in research papers, I like to go to the gym, play basketball and tennis. Don't forget about PC games! Welcome come to my research hub! I hope they are interesting to you and may even bring inspirations. If you’re into living life to the fullest, we’re already on the same wavelength.
+
+{% include float.html clear=true %}
+
 {% include section.html %}
 
 ## Highlights
