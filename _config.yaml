@@ -3,17 +3,17 @@ title: Shuo Tang's Hub
 subtitle: 
 description: 
 header: images/background_blackhole.gif
-footer: images/background.jpg
+footer: images/background_blackhole.gif
+header-dark: false
+footer-dark: false
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Shuo-TangDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Shuo-TangDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: Shuo-TangDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: Shuo-TangDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  Email: tang.shu@northeastern.edu
+  Orcid: 0009-0000-4531-2858
+  Google-Scholar: https://scholar.google.com/citations?hl=en&user=G7RM4vgAAAAJ
+  GitHub: https://github.com/Shuo-Tang?tab=repositories
 
 ### jekyll settings
 
