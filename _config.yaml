@@ -3,9 +3,9 @@ title: Shuo Tang's Hub
 subtitle: 
 description: 
 header: images/background_blackhole.gif
-footer: images/background_blackhole.gif
-header-dark: false
-footer-dark: false
+footer: background_human.jpg
+header-dark: true
+footer-dark: true
 proofer: false
 
 # site social media and other links
