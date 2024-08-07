@@ -15,7 +15,7 @@ This space features my completed projects and publications. If any catch your in
 {%
   include button.html
   type="github"
-  link="some_github_handle"
+  link=Shuo-Tang
   icon="fa-brands fa-github"
   text="Follow us on GitHub"
   tooltip="Follow us on GitHub for new releases"
