@@ -3,9 +3,9 @@
   tags: DPE
   
 - id: doi:10.1109/PLANS53410.2023.10140046
-type: paper
-tags: DPE
+  type: paper
+  tags: DPE
 
 - id: 10.1109/TAES.2023.3312350
-type: paper
-tags: DPE
+  type: paper
+  tags: DPE
