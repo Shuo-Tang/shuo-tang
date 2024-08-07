@@ -95,7 +95,23 @@ Our initial and "naive" idea is that traditional positioning techniques develope
 %}
 
 {% include section.html %}
+## Physics-informed learning
+Augmented physics-based model (APBM) is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.
+{%
+  include feature.html
+  image="images/apbm_lorenz.png"
+  link="https://github.com/Shuo-Tang/APBM_higher_order"
+  title="APBM"
+  text="We consider APBM as a physics-based model plus a nerual network, e.g. Multilayer perceptron. Due to the nonlinearity of the model, the Cubature Kalman filter is usually implemented to performing the state estimate and learning process. Besides, we extend the APBM to the high-order Markovity and noise identification problems."
+  flip=false
+%} 
 
+{%
+  include citation.html
+  lookup="doi:10.23919/FUSION49751.2022.9841291"
+%}
+
+{% include section.html %}
 ## Cognitive Radar
 Cognitive radars refer to the radars that can adaptively change its parameters, e.g. the location of the radar, the waveform, and power of the transmitting signals, to achieve better tracking performance in a closed loop through optimization principles. 
 This capability of responding to the dynamic target through waveform agility also enables the detection of the cognitive behavior of the radar from the target side.
@@ -106,11 +122,9 @@ This capability of responding to the dynamic target through waveform agility als
   link="https://github.com/Shuo-Tang/cognitive_radar_identification"
   title="Cognitive Radar Identification"
   text="A beamformer is designed to passively perceive the behavior of the radar. TO identify the cognitive radar, mutual Information (with Anderson–Darling test) and causality inference (more robust) are employed to make the decision."
-  flip=false
+  flip=true
 %}  
 
-## Augmented Physics-based Model
-APBM is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.
 
 {% include search-box.html %}
 
