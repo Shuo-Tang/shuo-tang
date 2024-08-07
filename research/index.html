@@ -690,11 +690,68 @@ Our initial and “naive” idea is that traditional positioning techniques deve
   size: ;
 -->
 
+<h2 id="physics-informed-learning">Physics-informed learning</h2>
+<p>Augmented physics-based model (APBM) is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.</p>
+<div class="feature">
+  <a href="https://github.com/Shuo-Tang/APBM_higher_order" class="feature-image" aria-label="APBM">
+    <img src="/shuo-tang/images/apbm_lorenz.png" loading="lazy" alt="APBM" onerror="this.src = '/shuo-tang/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">APBM</p>
+    
+    <p>We consider APBM as a physics-based model plus a nerual network, e.g. Multilayer perceptron. Due to the nonlinearity of the model, the Cubature Kalman filter is usually implemented to performing the state estimate and learning process. Besides, we extend the APBM to the high-order Markovity and noise identification problems.</p>
+
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a class="citation-title">
+        [no title info]
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">[no publisher info]</span>
+         · 
+        <span class="citation-date">[no date info]</span>
+         · 
+        <span class="citation-id">[no id info]</span>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
 <h2 id="cognitive-radar">Cognitive Radar</h2>
 <p>Cognitive radars refer to the radars that can adaptively change its parameters, e.g. the location of the radar, the waveform, and power of the transmitting signals, to achieve better tracking performance in a closed loop through optimization principles. 
 This capability of responding to the dynamic target through waveform agility also enables the detection of the cognitive behavior of the radar from the target side.</p>
 
-<div class="feature">
+<div class="feature" data-flip="">
   <a href="https://github.com/Shuo-Tang/cognitive_radar_identification" class="feature-image" aria-label="Cognitive Radar Identification">
     <img src="/shuo-tang/images/cog_radar_id.png" loading="lazy" alt="Cognitive Radar Identification" onerror="this.src = '/shuo-tang/images/fallback.svg'; this.onerror = null;">
   </a>
@@ -706,9 +763,6 @@ This capability of responding to the dynamic target through waveform agility als
 
   </div>
 </div>
-
-<h2 id="augmented-physics-based-model">Augmented Physics-based Model</h2>
-<p>APBM is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.</p>
 
 <div class="search-box">
   <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
