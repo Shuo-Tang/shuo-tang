@@ -84,17 +84,14 @@ Our initial and "naive" idea is that traditional positioning techniques develope
 {%
   include citation.html
   lookup="doi:10.1109/MSP.2017.2718040"
-  style="rich"
 %}
 {%
   include citation.html
   lookup="doi:10.1109/PLANS53410.2023.10140046"
-  style="rich"
 %}
 {%
   include citation.html
   lookup="10.1109/TAES.2023.3312350"
-  style="rich"
 %}
 
 {% include section.html %}
