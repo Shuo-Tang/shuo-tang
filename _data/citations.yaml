@@ -27,7 +27,7 @@
   tags: DPE
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TAES.2023.3312350
+- id: doi:10.1109/TAES.2023.3312350
   title: Robust Interference Mitigation Techniques for Direct Position Estimation
   authors:
   - Haoqing Li
@@ -41,7 +41,7 @@
   tags: DPE
   plugin: sources.py
   file: sources.yaml
-- id: 10.23919/FUSION49751.2022.9841291
+- id: doi:10.23919/FUSION49751.2022.9841291
   title: Hybrid Neural Network Augmented Physics-based Models for Nonlinear Filtering
   authors:
   - Tales Imbiriba

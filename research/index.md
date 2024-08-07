@@ -108,7 +108,7 @@ Augmented physics-based model (APBM) is a hybrid physics-based data-driven model
 
 {%
   include citation.html
-  lookup="doi:10.23919/FUSION49751.2022.9841291"
+  lookup="10.23919/FUSION49751.2022.9841291"
 %}
 
 {% include section.html %}
