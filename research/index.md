@@ -12,25 +12,6 @@ This space features my completed projects and publications. If any catch your in
 {% include section.html %}
 
 ## Direct Position Estimation 
-{%
-  include button.html
-  type="github"
-  link="https://github.com/Shuo-Tang/direct_position_estimation"
-  icon="fa-brands fa-github"
-  text="Follow us on GitHub"
-  tooltip="Follow us on GitHub for new releases"
-  flip=true
-  style="bare"
-%}
-{%
-  include feature.html
-  image="images/bound_vs_rmse.png"
-  link=https://github.com/Shuo-Tang/direct_position_estimation/tree/main/standard_DPE
-  title="Standard DPE"
-  text="Our team is made up of people all around the globe"
-  flip=true
-%}
-
 
 {% include citation.html lookup="Sci-Hub provides access to nearly all scholarly literature" style="rich" %}
 
