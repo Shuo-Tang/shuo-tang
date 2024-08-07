@@ -96,7 +96,18 @@ Our initial and "naive" idea is that traditional positioning techniques develope
 
 {% include section.html %}
 
-## All
+## Cognitive Radar
+Cognitive radars refer to the radars that can adaptively change its parameters, e.g. the location of the radar, the waveform, and power of the transmitting signals, to achieve better tracking performance in a closed loop through optimization principles. 
+This capability of responding to the dynamic target through waveform agility also enables the detection of the cognitive behavior of the radar from the target side.
+
+{%
+  include feature.html
+  image="images/multiple_antenna.png"
+  link="https://github.com/Shuo-Tang/cognitive_radar_identification"
+  title="Cognitive Radar Identification"
+  text="A beamformer is designed to passively perceive the behavior of the radar. TO identify the cognitive radar, mutual Information (with Anderson–Darling test) and causality inference (more robust) are employed to make the decision."
+  flip=false
+%}
 
 {% include search-box.html %}
 
