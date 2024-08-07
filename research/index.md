@@ -15,8 +15,8 @@ This space features my completed projects and publications. If any catch your in
 {%
   include feature.html
   image="images/bound_vs_rmse.png"
-  link="team"
-  title="Meet our team"
+  link=https://github.com/Shuo-Tang/direct_position_estimation/tree/main/standard_DPE
+  title="Standard DPE"
   text="Our team is made up of people all around the globe"
   flip=true
 %}
