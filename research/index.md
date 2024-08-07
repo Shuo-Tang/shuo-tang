@@ -12,14 +12,16 @@ This space features my completed projects and publications. If any catch your in
 {% include section.html %}
 
 ## Direct Position Estimation 
-{include button.html
+{%
+  include button.html
   type="github"
   link="some_github_handle"
   icon="fa-brands fa-github"
   text="Follow us on GitHub"
   tooltip="Follow us on GitHub for new releases"
   flip=true
-  style="bare"}
+  style="bare"
+ %}
 
 {% include citation.html lookup="Sci-Hub provides access to nearly all scholarly literature" style="rich" %}
 
