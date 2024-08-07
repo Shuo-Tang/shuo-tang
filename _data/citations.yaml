@@ -41,3 +41,19 @@
   tags: DPE
   plugin: sources.py
   file: sources.yaml
+- id: 10.23919/FUSION49751.2022.9841291
+  title: Hybrid Neural Network Augmented Physics-based Models for Nonlinear Filtering
+  authors:
+  - Tales Imbiriba
+  - Ahmet Demirkaya
+  - Jindfich Dunik
+  - Ondrej Straka
+  - Deniz Erdogmus
+  - Pau Closas
+  publisher: 2022 25th International Conference on Information Fusion (FUSION)
+  date: '2022-07-04'
+  link: https://doi.org/gt6mcz
+  type: paper
+  tags: APBM
+  plugin: sources.py
+  file: sources.yaml
