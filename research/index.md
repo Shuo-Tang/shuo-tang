@@ -15,7 +15,7 @@ This space features my completed projects and publications. If any catch your in
 {%
   include button.html
   type="github"
-  link=https://github.com/Shuo-Tang/direct_position_estimation
+  link="https://github.com/Shuo-Tang/direct_position_estimation"
   icon="fa-brands fa-github"
   text="Follow us on GitHub"
   tooltip="Follow us on GitHub for new releases"
