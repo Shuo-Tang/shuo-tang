@@ -18,7 +18,7 @@ This space features my completed projects and publications. If any catch your in
   link=https://github.com/Shuo-Tang/direct_position_estimation
   icon="fa-brands fa-github"
   text="Repository on GitHub"
-  tooltip="Follow us on GitHub for new releases"
+  tooltip="The codes for DPE approaches"
   flip=true
   style="bare"
  %}
