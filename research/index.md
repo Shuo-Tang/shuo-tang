@@ -92,5 +92,4 @@ Our initial and "naive" idea is that traditional positioning techniques develope
 {% include list.html 
    data="citations" 
    component="citation"
-   filters="project: DPE"
    style="rich" %}
