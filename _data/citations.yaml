@@ -1,16 +1,4 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-  id: 10.1109/MSP.2017.2718040
-  title: Direct Position Estimation of GNSS Receivers: Analyzing main results, architectures, enhancements, and challenges
-  authors: 
-  - Pau Closas
-  - Adria Gusi-Amigo
-  publisher: IEEE Signal Processing Magazine 
-  link: https://ieeexplore.ieee.org/document/8026199
-  plugin: orcid.py
-  file: orcid.yaml
-  project: DPE
-
-
 
 - id: doi:10.1093/nar/gkad1082
   title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
