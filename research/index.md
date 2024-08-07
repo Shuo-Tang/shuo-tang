@@ -45,6 +45,15 @@ Our initial and "naive" idea is that traditional positioning techniques develope
   flip=true
 %}
 
+{%
+  include feature.html
+  image="images/PDPE.png"
+  link="https://github.com/Shuo-Tang/direct_position_estimation/tree/main/precise_DPE"
+  title="Precise DPE"
+  text="PDPE is an extension of DPE by leveraging the carrier phase information of the reveived signal to achieve high-precision positioning and keep the high-sensitivity property."
+  flip=true
+%}
+
 {% include section.html %}
 
 ## All
