@@ -255,6 +255,6 @@
   date: '2017-09-01'
   link: https://doi.org/gppk42
   type: paper
-  prejoct: DPE
+  tags: DPE
   plugin: sources.py
   file: sources.yaml
