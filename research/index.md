@@ -16,12 +16,13 @@ This space features my completed projects and publications. If any catch your in
   include feature.html
   image="images/bound_vs_rmse.png"
   link="team"
-  title="Standard DPE
+  title="Meet our team"
   text="Our team is made up of people all around the globe"
   flip=true
 %}
 
 
+{% include citation.html lookup="Sci-Hub provides access to nearly all scholarly literature" style="rich" %}
 
 {% include section.html %}
 
