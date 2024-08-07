@@ -7,23 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-This space features my completed projects and publications. If any catch your interest, don't hesitate to reach out.
+This space features my completed projects and publications. If any catch your interest, don't hesitate to reach out.  
+{%
+  include icon.html
+  icon="fa-brands fa-github"
+%}
+Click the featured images to navigate to the corresponding repositories/branches for details.  
+{%
+  include icon.html
+  icon="fa-solid fa-book"
+%}
+My publications are also listed at the end of each project.
 
 {% include section.html %}
 
 ## Direct Position Estimation 
 Direct Position Estimation (DPE) is a high-sensitivity receiver design, particularly effective in GNSS applications. Unlike traditional methods, the DPE algorithm solves for PVT directly from raw satellite signals, withou estimating intermediate quantities, e.g. pseudorange and carrier phase.  
 Our initial and "naive" idea is that traditional positioning techniques developed over past decades can also enhance the existing DPE approach.  
-{%
-  include icon.html
-  icon="fa-brands fa-github"
-%}
-Click the featured images to navigate to the corresponding repositories for details.  
-{%
-  include icon.html
-  icon="fa-solid fa-book"
-%}
-My publications are also listed below.
 
 {%
   include button.html
