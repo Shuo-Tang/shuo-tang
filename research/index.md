@@ -107,7 +107,10 @@ This capability of responding to the dynamic target through waveform agility als
   title="Cognitive Radar Identification"
   text="A beamformer is designed to passively perceive the behavior of the radar. TO identify the cognitive radar, mutual Information (with Anderson–Darling test) and causality inference (more robust) are employed to make the decision."
   flip=false
-%}
+%}  
+
+## Augmented Physics-based Model
+APBM is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.
 
 {% include search-box.html %}
 
