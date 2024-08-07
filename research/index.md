@@ -102,7 +102,7 @@ This capability of responding to the dynamic target through waveform agility als
 
 {%
   include feature.html
-  image="images/multiple_antenna.png"
+  image="images/cog_radar_id.png"
   link="https://github.com/Shuo-Tang/cognitive_radar_identification"
   title="Cognitive Radar Identification"
   text="A beamformer is designed to passively perceive the behavior of the radar. TO identify the cognitive radar, mutual Information (with Anderson–Darling test) and causality inference (more robust) are employed to make the decision."
