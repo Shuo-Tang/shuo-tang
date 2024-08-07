@@ -31,12 +31,12 @@ When I’m not buried in code or lost in research papers, I like to go to the gy
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My projects focus on signal processing, receiver design, system identification and state estimation. The applications include GNSS, radar and sensor fusion. Kalman filter and data-driven learning are my best friends.  
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See my projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="My Projects"
   text=text
 %}
 
