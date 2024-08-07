@@ -81,6 +81,12 @@ Our initial and "naive" idea is that traditional positioning techniques develope
   flip=true
 %}
 
+{% include list.html 
+   data="citations" 
+   component="citation"
+   filters="tags: DPE"
+%}
+
 {% include section.html %}
 
 ## All
@@ -89,8 +95,4 @@ Our initial and "naive" idea is that traditional positioning techniques develope
 
 {% include search-info.html %}
 
-{% include list.html 
-   data="citations" 
-   component="citation"
-   filters="tags: DPE"
-%}
+
