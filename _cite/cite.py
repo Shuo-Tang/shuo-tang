@@ -159,7 +159,7 @@ for index, source in enumerate(sources):
 
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):
-         citation["date"] = format_date(get_safe(citation, "date", ""))
+        citation["date"] = format_date(get_safe(citation, "date", ""))
 
     # add new citation to list
     citations.append(citation)
