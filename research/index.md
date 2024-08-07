@@ -15,10 +15,10 @@ This space features my completed projects and publications. If any catch your in
 {%
   include button.html
   type="github"
-  link=https://github.com/Shuo-Tang/direct_position_estimation
+  link="some_github_handle"
   icon="fa-brands fa-github"
-  text="Repository on GitHub"
-  tooltip="The codes for DPE approaches"
+  text="Follow us on GitHub"
+  tooltip="Follow us on GitHub for new releases"
   flip=true
   style="bare"
  %}
