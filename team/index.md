@@ -11,7 +11,7 @@ Working with my amazing teammates is always a joy. A big thanks to Pau for bring
 
 
 {% include section.html background="images/background.jpg" dark=true %}
-Please meet my big group, Signal Processing Imaging Reasoning and Learning (SPIRAL) and my cozy family, Information Processing Laboratory (IPL).
+Meet my huge group, Signal Processing Imaging Reasoning and Learning (SPIRAL) and my cozy family, Information Processing Laboratory (IPL).
 
 {% include section.html %}
 

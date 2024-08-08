@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Feel free to contact me via email or any platform, if you are interesting in my projects!
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="tang.shu@northeastren.edu"
+  link="tang.shu@northeastren.edu"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="email"
+  text="ts0231@yeah.net"
+  link="ts0231@yeah.net"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our beautiful EXP NEU."
+  link="https://www.google.com/maps/place/Northeastern+University+EXP/@42.3371238,-71.0897483,1121m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e37bdf9b2a2a1d:0x8e8417debe76b853!8m2!3d42.3371199!4d-71.0871734!16s%2Fg%2F11t15g69nr?entry=ttu"
 %}
 
 {% include section.html %}
