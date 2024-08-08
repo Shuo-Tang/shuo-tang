@@ -7,28 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Working with my amazing teammates is always a joy. A big thanks to Pau for bringing me into this incredible family. Together, we're not just working—we're truly enjoying every moment of it.
 
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please meet my big group, Signal Processing Imaging Reasoning and Learning (SPIRAL) and my cozy family, Information Processing Laboratory (IPL).
 
 {% include section.html %}
 
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
+IPL
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+SPIRAL
 
 {% endcapture %}
 
