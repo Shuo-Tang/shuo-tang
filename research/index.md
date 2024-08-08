@@ -132,7 +132,7 @@ Model misspecification happens when the assumed model, which is used to derived 
   image="images/MBCRB.png"
   link="https://github.com/Shuo-Tang/BMCRB"
   title="MBCRB"
-  text="We extend the CRB to its Bayesian version, allowing for model misspecification in the prior information. The Bayesian CRB is not valid under model misspecification."
+  text="We extend the MCRB to its Bayesian version, allowing for model misspecification in the prior information. The standard Bayesian CRB is not valid under model misspecification."
   flip=false
 %}  
 {%
