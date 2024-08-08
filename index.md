@@ -69,7 +69,7 @@ My teammates include faculty and students from Information Processing Laboratory
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_cover.jpg"
   link="team"
   title="My Teammates"
   text=text
