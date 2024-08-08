@@ -15,22 +15,18 @@ Meet my huge group, Signal Processing Imaging Reasoning and Learning (SPIRAL) an
 
 {% include section.html %}
 
-{% capture content %}
 
 {%
   include card.html
   image="images/photo.jpg"
-  link="https://nasa.gov/"
+  link="https://github.com/ipl-lab/ipl-lab.github.io"
   title="IPL"
 %}
 
 {%
   include card.html
   image="images/photo.jpg"
-  link="https://nasa.gov/"
+  link="https://coe.northeastern.edu/coe-research/research-centers-institutes/center-for-signal-processing-imaging-reasoning-and-learning-spiral/"
   title="SPIRAL"
 %}
 
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
