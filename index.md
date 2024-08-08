@@ -46,7 +46,7 @@ My projects focus on signal processing, receiver design, system identification a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GSDC2023_training.pdf"
   link="research"
   title="My Projects"
   text=text
@@ -54,12 +54,12 @@ My projects focus on signal processing, receiver design, system identification a
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My teammates include faculty and students from Information Processing Laboratory and SPIRAL, Dept. of EECE, NEU. I also have connections with European colleagues from Spain, Czech and so on through research projects.  
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet my teammates"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -71,6 +71,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="My Teammates"
   text=text
 %}
