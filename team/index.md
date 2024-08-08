@@ -18,9 +18,9 @@ Meet my huge group, Signal Processing Imaging Reasoning and Learning (SPIRAL) an
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
-IPL
+
 {% include figure.html image="images/photo.jpg" %}
-SPIRAL
+                    IPL                                                                    SPIRAL
 
 {% endcapture %}
 
