@@ -46,7 +46,7 @@ My projects focus on signal processing, receiver design, system identification a
 
 {%
   include feature.html
-  image="images/GSDC2023_training.pdf"
+  image="images/GSDC2023_training.png"
   link="research"
   title="My Projects"
   text=text
