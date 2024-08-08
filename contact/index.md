@@ -31,4 +31,8 @@ Feel free to contact me via email or any platform, if you are interesting in my 
 {% include section.html %}
 Connect with me through [LinkedIn](https://www.linkedin.com/in/tshuo/)! I am currently open to internship in navigation, receiver, GNSS, wireless, vehicle, smartphone, wearable device, drone... industry!  
 
-Follow me at [Research Gate](https://www.researchgate.net/profile/Shuo-Tang-10) and the below Google Scholar to get my research status! 
+Follow me at [Research Gate](https://www.researchgate.net/profile/Shuo-Tang-10) and the below Google Scholar {%
+  include icon.html
+  icon="fa-brands fa-google"
+%} to get my research status! 
+
