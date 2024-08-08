@@ -19,7 +19,7 @@ Meet my huge group, Signal Processing Imaging Reasoning and Learning (SPIRAL) an
 {%
   include card.html
   image="images/IPL_all.png"
-  link="https://github.com/ipl-lab/ipl-lab.github.io"
+  link="https://ipl-lab.github.io/"
   title="IPL"
 %}
 
