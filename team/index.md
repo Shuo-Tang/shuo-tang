@@ -17,10 +17,19 @@ Meet my huge group, Signal Processing Imaging Reasoning and Learning (SPIRAL) an
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="https://nasa.gov/"
+  title="IPL"
+%}
 
-{% include figure.html image="images/photo.jpg" %}
-                    IPL                                                                    SPIRAL
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="https://nasa.gov/"
+  title="SPIRAL"
+%}
 
 {% endcapture %}
 
