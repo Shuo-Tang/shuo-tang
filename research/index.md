@@ -125,9 +125,19 @@ This capability of responding to the dynamic target through waveform agility als
   flip=true
 %}  
 
-
-{% include search-box.html %}
-
-{% include search-info.html %}
+## Misspecified Bayesian Cramér-Rao bound
+Model misspecification happens when the assumed model, which is used to derived the estimator, and the true model, which generates the data, are not consitent. In this case, the estimator is no longer an unbiased estimator w.r.t the true parameter and the standard Cramér-Rao bound cannot lower-bound the estimation error.  
+{%
+  include feature.html
+  image="images/MBCRB.png"
+  link="https://github.com/Shuo-Tang/BMCRB"
+  title="MBCRB"
+  text="We extend the CRB to its Bayesian version, allowing for model misspecification in the prior information. The Bayesian CRB is not valid under model misspecification."
+  flip=false
+%}  
+{%
+  include citation.html
+  lookup="doi:10.1109/ICASSP49357.2023.10095758"
+%}
 
 
