@@ -17,3 +17,13 @@
 - id: doi:10.1109/ICASSP49357.2023.10095758
   type: paper
   tags: MCRB 
+  
+- id: doi:10.33012/2024.19800
+  publisher: Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024)
+  title: Single Difference Code-Based Technique for Direct Position Estimation
+  authors:
+    - Shuo Tang
+    - Haoqing Li
+    - Pau Closas
+  date: 2024-09-20
+  link: https://www.ion.org/publications/abstract.cfm?articleID=19800
