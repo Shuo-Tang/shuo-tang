@@ -45,3 +45,7 @@
 - id: doi:10.3390/s24186132
   type: article
   tags: APBM
+  
+  id: arxiv:2410.12289
+  type: magazine
+  tags: APBM

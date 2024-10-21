@@ -122,6 +122,10 @@ Augmented physics-based model (APBM) is a hybrid physics-based data-driven model
   include citation.html
   lookup="doi:10.3390/s24186132"
 %}
+{%
+  include citation.html
+  lookup="arxiv:2410.12289"
+%}
 
 {% include section.html %}
 ## Cognitive Radar
