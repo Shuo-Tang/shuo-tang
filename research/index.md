@@ -93,7 +93,10 @@ Our initial and "naive" idea is that traditional positioning techniques develope
   include citation.html
   lookup="doi:10.1109/TAES.2023.3312350"
 %}
-
+{%
+  include citation.html
+  lookup="doi:10.33012/2024.19799"
+%}
 {%
   include citation.html
   lookup="doi:10.33012/2024.19800"
@@ -114,6 +117,10 @@ Augmented physics-based model (APBM) is a hybrid physics-based data-driven model
 {%
   include citation.html
   lookup="doi:10.23919/FUSION49751.2022.9841291"
+%}
+{%
+  include citation.html
+  lookup="doi:10.3390/s24186132"
 %}
 
 {% include section.html %}
