@@ -96,7 +96,9 @@
   - Pau Closas
   publisher: Proceedings of the 37th International Technical Meeting of the Satellite
     Division of The Institute of Navigation (ION GNSS+ 2024)
-  date: 2024-09-20
+  date: '2024-09-20'
   link: https://www.ion.org/publications/abstract.cfm?articleID=19800
+  type: paper
+  tags: DPE
   plugin: sources.py
   file: sources.yaml
