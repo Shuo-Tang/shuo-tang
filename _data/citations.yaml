@@ -88,3 +88,15 @@
   tags: MCRB
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.33012/2024.19800
+  title: Single Difference Code-Based Technique for Direct Position Estimation
+  authors:
+  - Shuo Tang
+  - Haoqing Li
+  - Pau Closas
+  publisher: Proceedings of the 37th International Technical Meeting of the Satellite
+    Division of The Institute of Navigation (ION GNSS+ 2024)
+  date: 2024-09-20
+  link: https://www.ion.org/publications/abstract.cfm?articleID=19800
+  plugin: sources.py
+  file: sources.yaml
