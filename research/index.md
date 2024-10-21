@@ -94,6 +94,11 @@ Our initial and "naive" idea is that traditional positioning techniques develope
   lookup="doi:10.1109/TAES.2023.3312350"
 %}
 
+{%
+  include citation.html
+  lookup="doi:10.33012/2024.19800"
+%}
+
 {% include section.html %}
 ## Physics-informed learning
 Augmented physics-based model (APBM) is a hybrid physics-based data-driven model, which is capable of learning complex state dynamics while maintaining some level of model interpretability by keeping the physics knowledge.
